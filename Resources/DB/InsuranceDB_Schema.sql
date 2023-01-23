@@ -25,3 +25,21 @@ CREATE TABLE PLAN_INFO (
 );
 
 
+-- Joining INSUREE_DEMO and PLAN_INFO tables
+CREATE TABLE INSURANCE_MODELING as
+SELECT INSUREE_DEMO.id,
+	INSUREE_DEMO.Age,
+    INSUREE_DEMO.Gender,
+	INSUREE_DEMO.Driving_License,
+    INSUREE_DEMO.Region_Code,
+	PLAN_INFO.annual_premium,
+	PLAN_INFO.previously_insured,
+	PLAN_INFO.vehicle_age,
+	PLAN_INFO.vehicle_damage,
+	PLAN_INFO.vintage,
+	PLAN_INFO.response,
+	PLAN_INFO.policy_sales_channel
+FROM INSUREE_DEMO
+LEFT JOIN PLAN_INFO
+ON INSUREE_DEMO.id = PLAN_INFO.id;
+
