@@ -1,5 +1,6 @@
 # Health Insurance- Vehicle Insurance EDA and Predictive Model
 **University of Toronto Data Analytics Bootcamp Final Project**
+
 This is the GitHub repository of our Bootcamp gorup's final project.
 
 ### Group Members:
@@ -40,6 +41,8 @@ Technologies & Tools used:
 
 
 
+
+
 Data Exploration Phase:
 
 
@@ -51,6 +54,8 @@ Data Exploration Phase:
 **Dataset and Data Description**
 
 A summarization of our dataset including column names and their definitions
+
+![table](https://user-images.githubusercontent.com/111541268/214397203-6c2bb60a-58ce-440e-a0e6-72e6df24710d.png)
 
 
 
