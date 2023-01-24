@@ -24,7 +24,7 @@ A recent market survey has shown a healthy conversion rate of over 22% on sellin
 
 ## Objective
 
-Our primary objective is to develop a predictive model that allows Top Insurer to classify its customer base based on its demographic and policy-related data. To achieve this objective we will use a dataset from Kaggle entitled “Health Insurance Cross Sell Prediction” and develop a predictive model using Python. The results of our analysis will help Top Insurer to inform its customer base segmentation for marketing and selling them the new Vehicle Insurance policy.
+Our primary objective is to develop a predictive model that allows Top Insurer to classify its customer base based on its demographic and policy-related data. To achieve this objective we will use a dataset from Kaggle entitled [“Health Insurance Cross Sell Prediction”](https://www.kaggle.com/datasets/anmolkumar/health-insurance-cross-sell-prediction?resource=download) and develop a predictive model using Python. The results of our analysis will help Top Insurer to inform its customer base segmentation for marketing and selling them the new Vehicle Insurance policy.
 
 
 ## Questions We Would Like to Answer:
