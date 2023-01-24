@@ -6,7 +6,7 @@ This is the GitHub repository of our Bootcamp gorup's final project.
 
 | Member         | Role                 | Responsibilities                                           |
 | :---           |     :---:            |          ---:                                              |
-| Preeti Verma (https://github.com/vermapreeti003)   | Dashboard Lead       | Manage the Github repo and Presentation Dashboard          |
+|  [Preeti Verma](https://github.com/vermapreeti003)   | Dashboard Lead       | Manage the Github repo and Presentation Dashboard          |
 | Anthony Defor  | Project Manager      | Manage the Technology, Presentation and Communication      |
 | Emad Soheil    | Machine Learning Lead| Manage the Machine Learning model and Design               |
 | Mahdi Abouei   | Database Lead        | Manage the Database and ETL process                        |
