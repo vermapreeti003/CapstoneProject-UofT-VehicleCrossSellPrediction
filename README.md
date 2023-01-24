@@ -29,11 +29,9 @@ Our primary objective is to develop a predictive model that allows Top Insurer t
 
 ## Questions We Would Like to Answer:
       
- * What is the best classification model that predicts customers that are more suitable for cross-sell opportunities
- * What are the most important features that can help make informed decisions for Top Insurer
- * What tiers or groups should Top Insurer focus on while developing marketing strategies for their new vehicle insurance
- * 
-
+ * What is the best classification model that predicts customers who are more suitable for Vehicle Insurance cross-selling?
+ * What are the most important features that can help Top Insurer make informed marketing and sales decisions?
+ * What tiers or customer groups should Top Insurer focus on while developing its strategies for the new vehicle insurance?
 
 
 Technologies & Tools used:
