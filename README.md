@@ -7,9 +7,9 @@ This is the GitHub repository of our Bootcamp gorup's final project.
 | Member         | Role                 | Responsibilities                                           |
 | :---           |     :---:            |          ---:                                              |
 |  [Preeti Verma](https://github.com/vermapreeti003)   | Dashboard Lead       | Manage the Github repo and Presentation Dashboard          |
-| Anthony Defor  | Project Manager      | Manage the Technology, Presentation and Communication      |
-| Emad Soheil    | Machine Learning Lead| Manage the Machine Learning model and Design               |
-| Mahdi Abouei   | Database Lead        | Manage the Database and ETL process                        |
+| [Anthony Defor](https://github.com/tonydefor) | Project Manager      | Manage the Technology, Presentation and Communication      |
+| [Emad Soheil](https://github.com/EmadSoheili)    | Machine Learning Lead| Manage the Machine Learning model and Design               |
+| [Mahdi Abouei](https://github.com/aboueim)   | Database Lead        | Manage the Database and ETL process                        |
 
 While members are assigned specific roles, we all work together on each part of the project.
 
