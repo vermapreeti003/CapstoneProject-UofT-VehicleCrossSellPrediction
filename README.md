@@ -46,7 +46,7 @@ Machine Learning Algorithms - CLustering, Logical Regression, Decision Tree, SVM
 
 
 
-** Data Exploration Phase(EDA):
+**Data Exploration Phase(EDA)**
 
 ![Blank diagram](https://user-images.githubusercontent.com/47859209/214475143-661ce436-af7a-4dbc-88d2-9f42353c9a4b.png)
 
