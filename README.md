@@ -48,7 +48,8 @@ Programming languages - Python, Jupyter Notebook
 Machine Learning Algorithms - CLustering, Logical Regression, Decision Tree, SVM, Random Forest
 
 
-
+**Flowchart**
+![VICP](https://user-images.githubusercontent.com/47859209/214681587-605bc4c7-b1d7-4050-a4a0-040ed173e491.png)
 
 
 > ETL Phase:
