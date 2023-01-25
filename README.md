@@ -38,6 +38,9 @@ Our primary objective is to develop a predictive model that allows Top Insurer t
 Technologies & Tools used:
 
 
+![TooLs   technologies](https://user-images.githubusercontent.com/111541268/214619852-3a75923a-c083-473a-a051-93e2a7e32d1b.png)
+
+
 
 
 Data Exploration Phase:
