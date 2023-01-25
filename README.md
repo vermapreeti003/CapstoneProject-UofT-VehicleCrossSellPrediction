@@ -8,7 +8,7 @@ This is the GitHub repository of our Bootcamp gorup's final project.
 
 | Member                                                | Responsibilities                                           |
 | :---                                                  |        ---:                                                |
-|  [Preeti Verma](https://github.com/vermapreeti003)    | Manage the Github repo and Presentation Dashboard          |
+| [Preeti Verma](https://github.com/vermapreeti003)    | Manage the Github repo and Presentation Dashboard          |
 | [Anthony Defor](https://github.com/tonydefor)         | Manage the Technology, Presentation and Communication      |
 | [Emad Soheil](https://github.com/EmadSoheili)         | Manage the Machine Learning model and Design               |
 | [Mahdi Abouei](https://github.com/aboueim)            | ^                                                          |
