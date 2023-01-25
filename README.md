@@ -36,17 +36,19 @@ Our primary objective is to develop a predictive model that allows Top Insurer t
 
 Technologies & Tools used:
 
+Visualization - Tableau, Google Slides/Powerpoint
+
+Programming languages - Python, Jupyter Notebook
+
+Machine Learning Algorithms - CLustering, Logical Regression, Decision Tree, SVM, Random Forest
 
 
 
 
 
-Data Exploration Phase:
+**Data Exploration Phase(EDA):
 
-
-
-![ETL_Process](https://user-images.githubusercontent.com/111541268/214387965-45fc13a0-bd83-4a02-ae18-5c06748f09fe.png)
-
+![Blank diagram](https://user-images.githubusercontent.com/47859209/214475143-661ce436-af7a-4dbc-88d2-9f42353c9a4b.png)
 
 
 **Dataset and Data Description**
