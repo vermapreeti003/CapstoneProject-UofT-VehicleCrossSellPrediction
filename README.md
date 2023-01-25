@@ -11,7 +11,7 @@ This is the GitHub repository of our Bootcamp gorup's final project.
 |  [Preeti Verma](https://github.com/vermapreeti003)    | Manage the Github repo and Presentation Dashboard          |
 | [Anthony Defor](https://github.com/tonydefor)     | Manage the Technology, Presentation and Communication      |
 | [Emad Soheil](https://github.com/EmadSoheili)    | Manage the Machine Learning model and Design               |
-| [Mahdi Abouei](https://github.com/aboueim)    | Manage the Database and ETL process                        |
+| [Mahdi Abouei](https://github.com/aboueim)    | Manage the Machine Learning model and Design               |
 
 While members are assigned specific roles, we all work together on each part of the project.
 
@@ -53,7 +53,7 @@ Machine Learning Algorithms - CLustering, Logical Regression, Decision Tree, SVM
 
 > ETL Phase:
 
-
+---
 
 ![ETL_P](https://user-images.githubusercontent.com/111541268/214609329-cb98f5c1-9202-469e-9b3e-f39950f7cdc9.png)
 
