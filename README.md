@@ -53,7 +53,7 @@ Machine Learning Algorithms - CLustering, Logical Regression, Decision Tree, SVM
 
 > ETL Phase:
 
----
+
 
 ![ETL_P](https://user-images.githubusercontent.com/111541268/214609329-cb98f5c1-9202-469e-9b3e-f39950f7cdc9.png)
 
