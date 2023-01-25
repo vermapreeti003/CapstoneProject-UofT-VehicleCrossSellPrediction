@@ -35,7 +35,7 @@ Our primary objective is to develop a predictive model that allows Top Insurer t
  * What tiers or customer groups should Top Insurer focus on while developing its strategies for the new vehicle insurance?
 
 
-Technologies & Tools used:
+> Technologies & Tools used:
 
 
 ![TooLs   technologies](https://user-images.githubusercontent.com/111541268/214609170-bd589673-054d-4511-b358-f802e744622a.png)
@@ -51,7 +51,7 @@ Machine Learning Algorithms - CLustering, Logical Regression, Decision Tree, SVM
 
 
 
-**Data Exploration Phase(EDA)**
+> ETL Phase:
 
 
 
@@ -89,6 +89,10 @@ A summarization of our dataset including column names and their definitions
   
   
 ## Dashboard:
+
+
+**Mockup**
+![Mockup](https://user-images.githubusercontent.com/111541268/214617270-e86de870-f7b2-440b-8af6-2702b0b01531.jpeg)
 
 
 
