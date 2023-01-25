@@ -1,16 +1,17 @@
-# Health Insurance- Vehicle Insurance EDA and Predictive Model
+# Vehicle Insurance Cross-selling Prediction
+
 **University of Toronto Data Analytics Bootcamp Final Project**
 
 This is the GitHub repository of our Bootcamp gorup's final project.
 
 ### Group Members:
 
-| Member         | Role                 | Responsibilities                                           |
-| :---           |     :---:            |          ---:                                              |
-|  [Preeti Verma](https://github.com/vermapreeti003)   | Dashboard Lead       | Manage the Github repo and Presentation Dashboard          |
-| [Anthony Defor](https://github.com/tonydefor) | Project Manager      | Manage the Technology, Presentation and Communication      |
-| [Emad Soheil](https://github.com/EmadSoheili)    | Machine Learning Lead| Manage the Machine Learning model and Design               |
-| [Mahdi Abouei](https://github.com/aboueim)   | Database Lead        | Manage the Database and ETL process                        |
+| Member         | Responsibilities                                           |
+| :---           |        ---:                                              |
+|  [Preeti Verma](https://github.com/vermapreeti003)    | Manage the Github repo and Presentation Dashboard          |
+| [Anthony Defor](https://github.com/tonydefor)     | Manage the Technology, Presentation and Communication      |
+| [Emad Soheil](https://github.com/EmadSoheili)    | Manage the Machine Learning model and Design               |
+| [Mahdi Abouei](https://github.com/aboueim)    | Manage the Database and ETL process                        |
 
 While members are assigned specific roles, we all work together on each part of the project.
 
@@ -36,6 +37,10 @@ Our primary objective is to develop a predictive model that allows Top Insurer t
 
 Technologies & Tools used:
 
+
+![TooLs   technologies](https://user-images.githubusercontent.com/111541268/214609170-bd589673-054d-4511-b358-f802e744622a.png)
+
+
 Visualization - Tableau, Google Slides/Powerpoint
 
 Programming languages - Python, Jupyter Notebook
@@ -48,7 +53,10 @@ Machine Learning Algorithms - CLustering, Logical Regression, Decision Tree, SVM
 
 **Data Exploration Phase(EDA)**
 
-![Blank diagram](https://user-images.githubusercontent.com/47859209/214475143-661ce436-af7a-4dbc-88d2-9f42353c9a4b.png)
+
+
+![ETL_P](https://user-images.githubusercontent.com/111541268/214609329-cb98f5c1-9202-469e-9b3e-f39950f7cdc9.png)
+
 
 
 **Dataset and Data Description**
@@ -81,6 +89,8 @@ A summarization of our dataset including column names and their definitions
   
   
 ## Dashboard:
+
+
 
 ## Analysis Results:
 
