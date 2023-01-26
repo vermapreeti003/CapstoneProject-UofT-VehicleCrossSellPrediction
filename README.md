@@ -70,8 +70,13 @@ A summarization of our dataset including column names and their definitions
 
 ![VICPDB](https://user-images.githubusercontent.com/47859209/214732389-e198ac5e-0d0e-4518-b7f8-e3d4266d5a63.png)
 
-
-
+* Database
+   * Creating Tables
+   * Adding Data Points
+   * Joining Two Tables
+* EDA
+   * Explore Data and Features
+   * Plan Possible Feature Converts and Drops
 * Data Cleaning
    * Recategorize Data
    * Binning
