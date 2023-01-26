@@ -62,7 +62,8 @@ A summarization of our dataset including column names and their definitions
 
 ## Workflow:
 
-![VICP](https://user-images.githubusercontent.com/47859209/214681587-605bc4c7-b1d7-4050-a4a0-040ed173e491.png)
+![VICPDB](https://user-images.githubusercontent.com/47859209/214732389-e198ac5e-0d0e-4518-b7f8-e3d4266d5a63.png)
+
 
 
 * Data Cleaning
