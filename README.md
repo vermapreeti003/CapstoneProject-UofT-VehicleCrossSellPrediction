@@ -95,7 +95,8 @@ A summarization of our dataset including column names and their definitions
 **Mockup**
 
 
-![Mockup](https://user-images.githubusercontent.com/111541268/214618559-dc9033fa-17ad-401d-a1ab-072afe4b819e.jpeg)
+![Mockup](https://user-images.githubusercontent.com/47859209/214740074-7cfb93ac-7e28-4872-9a14-12e8c0f0b01c.png)
+
 
 
 
