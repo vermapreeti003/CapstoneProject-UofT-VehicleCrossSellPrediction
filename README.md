@@ -38,14 +38,9 @@ Our primary objective is to develop a predictive model that allows Top Insurer t
 > Technologies & Tools used:
 
 
-![TooLs   technologies](https://user-images.githubusercontent.com/111541268/214609170-bd589673-054d-4511-b358-f802e744622a.png)
+![TOOLS   TECH](https://user-images.githubusercontent.com/111541268/214732130-56b65080-b8d3-4f8f-9169-0e6aa95b8681.png)
 
 
-Visualization - Tableau, Google Slides/Powerpoint
-
-Programming languages - Python, Jupyter Notebook
-
-Machine Learning Algorithms - CLustering, Logical Regression, Decision Tree, SVM, Random Forest
 
 
 
