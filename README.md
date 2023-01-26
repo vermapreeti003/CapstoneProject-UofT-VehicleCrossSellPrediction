@@ -62,7 +62,7 @@ A summarization of our dataset including column names and their definitions
 ![table](https://user-images.githubusercontent.com/111541268/214397203-6c2bb60a-58ce-440e-a0e6-72e6df24710d.png)
 
 
-## The ERD Diagram Sceham of the Database:
+## The ERD Diagram Schema of the Database:
 
 ![This is an image](Images/ERD/Insurance_ERD.png)
 
