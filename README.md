@@ -41,7 +41,7 @@ Our primary objective is to develop a predictive model that allows Top Insurer t
 ![TOOLS   TECH](https://user-images.githubusercontent.com/111541268/214732130-56b65080-b8d3-4f8f-9169-0e6aa95b8681.png)
 
 
-![TooLs   technologies](https://user-images.githubusercontent.com/111541268/214619852-3a75923a-c083-473a-a051-93e2a7e32d1b.png)
+
 
 
 
