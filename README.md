@@ -10,7 +10,7 @@ This is the GitHub repository of our Bootcamp gorup's final project.
 | :---                                                  | :---                                                       |
 | [Preeti Verma](https://github.com/vermapreeti003)     | Manage the Github repo and Presentation Dashboard          |
 | [Anthony Defor](https://github.com/tonydefor)         | Manage the Technology, Presentation and Communication      |
-| [Emad Soheil](https://github.com/EmadSoheili)         | Manage Database, the Machine Learning model and Design               |
+| [Emad Soheili](https://github.com/EmadSoheili)         | Manage Database, the Machine Learning model and Design               |
 | [Mahdi Abouei](https://github.com/aboueim)            | Manage Database, the Machine Learning model and Design     |
 
 While members are assigned specific roles, we all work together on each part of the project.
