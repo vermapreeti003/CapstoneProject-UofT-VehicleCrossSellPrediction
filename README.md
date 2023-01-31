@@ -98,6 +98,40 @@ A summarization of our dataset including column names and their definitions
   * Choose which model has the best recall score for this case  
   
   
+## Machine Learning:
+
+> Preliminary Data Processing:
+
+  * The first steps were to check the kind of data types were inside of the CSV file. We found that our dataset had age, gender, response, previously insured, annual premium for all types of customers in that dataset.
+  
+  
+  * the next was to check for duplicates and null values in the dataframe we created.
+  
+In the first week, we were able to compare the initial clustering. We attained the following #D Principal Cluster Analysis Plot from this data.
+
+
+![clusteringcode1](https://user-images.githubusercontent.com/111541268/215864859-6f826f0f-f6a6-410c-88dc-f01987198adf.png)
+
+
+
+<img width="723" alt="Clustering4" src="https://user-images.githubusercontent.com/111541268/215864923-8302bfeb-07e3-48ae-8b44-21efb415507d.png">
+
+
+> Preliminary Feature Engineering, Feature Selection, & Decision-making Process:
+
+ * 
+ * 
+
+> Splitting Data Into Testing & Training sets:
+
+
+
+> Explanation of Model Choice:
+
+Here are the models we tried, along with the results we got:
+
+
+
 ## Dashboard:
 
 
@@ -110,7 +144,6 @@ A summarization of our dataset including column names and their definitions
 
 
 ## Analysis Results:
-
 
 ## Recommendations for future Analysis:
 
