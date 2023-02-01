@@ -145,9 +145,33 @@ Here are the models we tried, along with the results we got:
 
 ## Analysis Results:
 
+ * From this dataset of Vehicle insurance almost 95% of customers have a vehicle age that's less than 2 years. from our analysis, customers who has more than    2        years of vehicle age are more interested with vehicle insurance advertisment, while customers who has less then one year of vehicle age, only 4% of them are            actually interesred with vehicle insurance
+
+ * We found out that customer who already have vehicle insurance are almost have no interest in another vehicle insurance. Our analysis shows that 99.9% of customers      that have a vehicle insurance is not interested in another vehicle insurance, while customer who doesn't have a vehicle insurance 22.5 % of them are interested with    vehicle insurance
+
+ * we also found out that a newer vehicle are more likely to have a vehicle insurance, with vehicle that's less than one year 66% of those are insured , vehicle that's    older than one year but less than 2 years are 33% insured, while less than one percent of vehicle that's older than 2 years are insured. This should explain why        customer who owns a newer vehicle are less likely to be intersted with insurance promotion, because they probably alredy have one.
+ 
 ## Recommendations for future Analysis:
 
+1. Work with dealership to capture millenial market
+
+as we know from the analysis that millenials are less likely to be intersted with vehicle insurance because of most of them have a vehicle that's less than one year of age, and vehicle with less then one year of age are most likely to be insured so in conclusion they already have one, and so they're not interested. By working together with a dealership that sells a brand new car, we could tackle this problem, our insurance company could have a bundling product of brand new vehicle and a free promotional vehicle insurance for certain period of months. we hope that by working together with vehicle dealership we could target more millenials customers.
+
+2. Target & Educate Customers Who had Vehicle Damage in the past
+
+95% customers who have had a vehicle damaged in the past still does not have a vehicle insurance this is a gold mine for our vehicle insurance, since customers are more likely to be interested in vehicle insurance if they've a vehicle damage in the past.
+
+we could do targeted marketing to this customers, by showing the benefits of having a vehicle insurance and how it will protect you if you ever had a vehicle damaged in the future
+
+3. Benfits for customer who has a vehicle that's more than 2 years
+
+having an older vehicle means having more problem compared to newer vehicle, problems like overheating, radiator problem and, etc are common with older cars, fixing those kind of stuff could be costly or having problem like that in the middle of a road could be troublesome. Since only less than one percent of customer who's actually owned car that's older than 2 years and insured, we could focus more on the problems that car over two years might have and the pain point of customers that owned older car and we should construct the benefits on those pain points, since customer with vehicle age over 2 years are the most likely to be intersted with vehicle insurance
+
+4. Use Machine Learning Algorith to have predict the response outcome of a customer
+
+Using the Decession Tree  machine learning that has recall of 96.5 % will speed up and find out which customer who actually intersted in vehicle insurance, and we could focus our resource just based on the customers that's interested
 
 ## Improvements We Would Have Made:
 
+One major area where we feel we could have improved our project is by taking more time to discover more data sets and factors that may influence insurance policies. There are likely many variables we could not find data on handily, and that would probably be the best place to improve our project.
   
