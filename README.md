@@ -141,6 +141,7 @@ Here are the models we tried, along with the results we got:
 ![Mockup](https://user-images.githubusercontent.com/47859209/214740074-7cfb93ac-7e28-4872-9a14-12e8c0f0b01c.png)
 
 
+# Tableau Dashboards:
 
 EDA Analysis of Dashboard:
 [EDA Analysis](https://public.tableau.com/app/profile/preeti.verma/viz/DB7_16753028790990/EDAAnalysis?publish=yes)
