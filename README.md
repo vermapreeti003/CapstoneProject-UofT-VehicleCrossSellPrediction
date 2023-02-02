@@ -147,11 +147,7 @@ EDA Analysis of Dashboard:
 
 ## Analysis Results:
 
- * From this dataset of Vehicle insurance almost 95% of customers have a vehicle age that's less than 2 years. from our analysis, customers who has more than    2        years of vehicle age are more interested with vehicle insurance advertisment, while customers who has less then one year of vehicle age, only 4% of them are            actually interesred with vehicle insurance
-
- * We found out that customer who already have vehicle insurance are almost have no interest in another vehicle insurance. Our analysis shows that 99.9% of customers      that have a vehicle insurance is not interested in another vehicle insurance, while customer who doesn't have a vehicle insurance 22.5 % of them are interested with    vehicle insurance
-
- * we also found out that a newer vehicle are more likely to have a vehicle insurance, with vehicle that's less than one year 66% of those are insured , vehicle that's    older than one year but less than 2 years are 33% insured, while less than one percent of vehicle that's older than 2 years are insured. This should explain why        customer who owns a newer vehicle are less likely to be intersted with insurance promotion, because they probably alredy have one.
+ 
  
 ## Recommendations for future Analysis:
 
