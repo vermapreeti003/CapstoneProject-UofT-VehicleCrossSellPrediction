@@ -142,6 +142,8 @@ Here are the models we tried, along with the results we got:
 
 
 
+EDA Analysis of Dashboard:
+[EDA Analysis](https://public.tableau.com/app/profile/preeti.verma/viz/DB7_16753028790990/EDAAnalysis?publish=yes)
 
 ## Analysis Results:
 
