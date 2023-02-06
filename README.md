@@ -121,6 +121,13 @@ In the first week, we were able to compare the initial clustering. We attained t
 
  * Created a clustering model using the K-means alogrithm. We used scaled dataset since the difference between features scales were considerable.
  
+ <img width="713" alt="Clustering1" src="https://user-images.githubusercontent.com/111541268/217084249-6d34775c-2bf2-4b3b-afc5-fd9f1d959415.png">
+
+
+ * We choes k=2 as our number of clusters. For which the 2D chart is shown below:
+ 
+ <img width="709" alt="Clustering3" src="https://user-images.githubusercontent.com/111541268/217084541-4a45628c-530e-49d9-938f-070645552ccb.png">
+
  
  * For the prediciton of which machine learning model to use, we used the estimators count of 100 in Random Forest and come out with a recall of 86%, we were focused on it to have potential renvenue from the coustmers.
  The outcomes of Random Forest are shown below:
@@ -151,6 +158,9 @@ The Decision Tree model outperformed the cloest model with 98% Accuracy. Since i
 The second closest was Random Forest Regression that placed through an accuracy of 99%.
 
 The Decision Tree was outperformed with the training time of 1.5sec with that of Random Forest which have around 57.5sec that is 38 times more than the first one.
+
+
+![DecisionTree1](https://user-images.githubusercontent.com/111541268/217084880-e20df29d-0ae5-4a92-bbbb-dcf6e89eb6e3.png)
 
 
 ## Dashboard:
