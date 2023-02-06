@@ -119,21 +119,43 @@ In the first week, we were able to compare the initial clustering. We attained t
 
 > Preliminary Feature Engineering, Feature Selection, & Decision-making Process:
 
- * 
- * 
+ * Created a clustering model using the K-means alogrithm. We used scaled dataset since the difference between features scales were considerable.
+ 
+ 
+ * For the prediciton of which machine learning model to use, we used the estimators count of 100 in Random Forest and come out with a recall of 86%, we were focused on it to have potential renvenue from the coustmers.
+ The outcomes of Random Forest are shown below:
+ 
+ ![ML1](https://user-images.githubusercontent.com/111541268/217067187-f500bdc8-9390-49c9-8600-088437e57c63.png)
 
+ 
+
+ * While when we used Decision Tree with Depth= 50 we found out that the recall is 85% but the training time is as low as 1.4 seconds, which indicates it to be better for modelling. The outcomes are shown below:
+ 
+ ![ML2](https://user-images.githubusercontent.com/111541268/217067636-5a706fe0-51c6-44fc-bf80-8388dc8fd29d.png)
+
+ 
 > Splitting Data Into Testing & Training sets:
 
-
+For our final Decesion Tree Model, we used testing/training split to achieve pur results. The splits we tried in other methods are shown below.
 
 > Explanation of Model Choice:
 
 Here are the models we tried, along with the results we got:
 
 
+![ML5](https://user-images.githubusercontent.com/111541268/217064791-5f2a8f56-9a2e-4250-a6ef-9e8c178c1ea8.png)
+
+
+The Decision Tree model outperformed the cloest model with 98% Accuracy. Since it was the most simple solution, we tried a few other models as well to see if we could outperform it.
+
+The second closest was Random Forest Regression that placed through an accuracy of 99%.
+
+The Decision Tree was outperformed with the training time of 1.5sec with that of Random Forest which have around 57.5sec that is 38 times more than the first one.
+
 
 ## Dashboard:
 
+We used Tableau to create and host our dashboard. 
 
 **Mockup**
 
@@ -155,7 +177,13 @@ Model Performance:
 
 
 ## Analysis Results:
+ * From this dataset of vehicle insurance almost 95% of customers have a vehicle age that's less than 2 years. From our analysis, customers who has more than 2 years      of vehicle age are more interested with vehicle insurance, while customers who has less then one year of vehicle age, only 4% of them are actually interesred with      vehicle insurance.
 
+ * We found out that customer who already have vehicle insurance are almost have no interest in another vehicle insurance. Our analysis shows that 99.9% of customers      that have a vehicle insurance is not interested in another vehicle insurance, while customer who doesn't have a vehicle insurance 22.5 % of them are interested with    vehicle insurance
+
+ * We also found out that a newer vehicle are more likely to have a vehicle insurance, with vehicle that's less than one year 66% of those are insured , vehicle that's    older than one year but less than 2 years are 33% insured, while less than one percent of vehicle that's older than 2 years are insured. This should explain why        customer who owns a newer vehicle are less likely to be intersted with insurance promotion, because they probably alredy have one.
+
+ * Customers who never had vehicle damaged only 0.5 % of those customers are intersted with vehicle insurance, 87% of customers who never had any vehicle damaged          already have a vehicle insurance
  
  
 ## Recommendations for future Analysis:
