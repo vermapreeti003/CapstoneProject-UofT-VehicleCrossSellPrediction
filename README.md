@@ -31,9 +31,23 @@ Our primary objective is to develop a predictive model that allows Top Insurer t
 ## Questions We Would Like to Answer:
       
  * What is the best classification model that predicts customers who are more suitable for Vehicle Insurance cross-selling?
+     
+     From the responses the best model are Decision Tree and Random Forest with around 93-94% Accuracy, but as per the training time Decision Tree is better as it          takes 1.5seconds whereas other one take around a minute.
+     
+     
+     
  * What are the most important features that can help Top Insurer make informed marketing and sales decisions?
- * What tiers or customer groups should Top Insurer focus on while developing its strategies for the new vehicle insurance?
+     
+     As per our feature selection from the analysis done, the Annual Premium, vintage, Vehicle Damage, Previously insured, amd age are the ones that insure to help in      attaining more customer to obtain vehicle insurance and help in market growth. 
+     
+     <img width="384" alt="RandomForest2" src="https://user-images.githubusercontent.com/111541268/217296244-d5b06dc7-632c-4727-ae8f-552c23de3c82.png">
 
+     
+     
+ * What tiers or customer groups should Top Insurer focus on while developing its strategies for the new vehicle insurance?
+      
+      As per our analysis, there is no specific customer groups to focus on while deveolping the strategies for the new vehicle insurance. 
+      
 
 > Technologies & Tools used:
 
@@ -109,25 +123,21 @@ A summarization of our dataset including column names and their definitions
   
 In the first week, we were able to compare the initial clustering. We attained the following #D Principal Cluster Analysis Plot from this data.
 
+ <img width="713" alt="Clustering1" src="https://user-images.githubusercontent.com/111541268/217084249-6d34775c-2bf2-4b3b-afc5-fd9f1d959415.png">
 
-![clusteringcode1](https://user-images.githubusercontent.com/111541268/215864859-6f826f0f-f6a6-410c-88dc-f01987198adf.png)
-
-
-
-<img width="723" alt="Clustering4" src="https://user-images.githubusercontent.com/111541268/215864923-8302bfeb-07e3-48ae-8b44-21efb415507d.png">
 
 
 > Preliminary Feature Engineering, Feature Selection, & Decision-making Process:
 
  * Created a clustering model using the K-means alogrithm. We used scaled dataset since the difference between features scales were considerable.
  
- <img width="713" alt="Clustering1" src="https://user-images.githubusercontent.com/111541268/217084249-6d34775c-2bf2-4b3b-afc5-fd9f1d959415.png">
+  <img width="709" alt="Clustering3" src="https://user-images.githubusercontent.com/111541268/217084541-4a45628c-530e-49d9-938f-070645552ccb.png">
 
 
  * We choes k=2 as our number of clusters. For which the 2D chart is shown below:
  
- <img width="709" alt="Clustering3" src="https://user-images.githubusercontent.com/111541268/217084541-4a45628c-530e-49d9-938f-070645552ccb.png">
 
+ <img width="723" alt="Clustering4" src="https://user-images.githubusercontent.com/111541268/215864923-8302bfeb-07e3-48ae-8b44-21efb415507d.png">
  
  * For the prediciton of which machine learning model to use, we used the estimators count of 100 in Random Forest and come out with a recall of 86%, we were focused on it to have potential renvenue from the coustmers.
  The outcomes of Random Forest are shown below:
