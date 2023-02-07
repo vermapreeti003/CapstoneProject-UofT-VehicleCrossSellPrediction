@@ -175,11 +175,11 @@ We used Tableau to create and host our dashboard.
 
 # Tableau Dashboards:
 
-EDA Analysis of Dashboard:
+Dashboard #1:</br>
 [EDA Analysis](https://public.tableau.com/app/profile/emad.soheili/viz/CapstoneProject-UofT-VehicleCrossSellPrediction/EDA)
 
-Results:
-[Feature Selection](https://public.tableau.com/app/profile/emad.soheili/viz/CapstoneProject-UofT-VehicleCrossSellPrediction2/Models)
+Dashboard #2:</br>
+[Results](https://public.tableau.com/app/profile/emad.soheili/viz/CapstoneProject-UofT-VehicleCrossSellPrediction2/Models)
 
 
 ## Analysis Results:
